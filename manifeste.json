@@ -1,0 +1,33 @@
+{
+ "whisper-large-v3-turbo-int8/model.bin": {
+  "sha256": "7482f978f9493b93b3d0bf68a148a1a62ca02547e8ee981358ff8ef2de8a9418",
+  "taille": 814054531,
+  "parties": [
+   "whisper-large-v3-turbo-int8/model.bin.part-00",
+   "whisper-large-v3-turbo-int8/model.bin.part-01",
+   "whisper-large-v3-turbo-int8/model.bin.part-02",
+   "whisper-large-v3-turbo-int8/model.bin.part-03",
+   "whisper-large-v3-turbo-int8/model.bin.part-04",
+   "whisper-large-v3-turbo-int8/model.bin.part-05",
+   "whisper-large-v3-turbo-int8/model.bin.part-06",
+   "whisper-large-v3-turbo-int8/model.bin.part-07",
+   "whisper-large-v3-turbo-int8/model.bin.part-08",
+   "whisper-large-v3-turbo-int8/model.bin.part-09",
+   "whisper-large-v3-turbo-int8/model.bin.part-10",
+   "whisper-large-v3-turbo-int8/model.bin.part-11",
+   "whisper-large-v3-turbo-int8/model.bin.part-12",
+   "whisper-large-v3-turbo-int8/model.bin.part-13",
+   "whisper-large-v3-turbo-int8/model.bin.part-14",
+   "whisper-large-v3-turbo-int8/model.bin.part-15",
+   "whisper-large-v3-turbo-int8/model.bin.part-16",
+   "whisper-large-v3-turbo-int8/model.bin.part-17"
+  ]
+ },
+ "locuteurs/embedding.onnx": {
+  "sha256": "1a331345f04805badbb495c775a6ddffcdd1a732567d5ec8b3d5749e3c7a5e4b",
+  "taille": 39593761,
+  "parties": [
+   "locuteurs/embedding.onnx.part-00"
+  ]
+ }
+}
